@@ -1,0 +1,84 @@
+body{
+    background-image: url(./images/bg-pink.png);
+    background-size: cover;
+   }
+
+.navbar {
+    background-color: aqua;
+}
+
+ul .nav{
+    display: inline-block;
+    align-items: center;
+    
+}
+
+div ul li{
+    display: inline-block;
+    font-size:xx-large;
+    margin : 10px 30px;
+    text-decoration: none;
+}
+
+div ul li a{
+    text-decoration: none;
+    
+}
+
+div ul li a:hover{
+    text-decoration: none;
+    color: crimson;
+    
+}
+
+.myName{
+    margin-right: 1000px;
+}
+
+.girl{
+    margin: auto;
+    height: 500px;
+    width: 500px;
+}
+
+.description{
+    text-align: center;
+  
+}
+
+.name{
+    font-style: italic;
+    font-size: 75px;
+    line-height: 40%;
+ 
+}
+
+h2{
+    font-size: 30px;
+    font-style: italic;
+    line-height: 0%;
+}
+
+div .footer{
+
+    align-content: center ;
+    background-color:aqua;
+    text-decoration: none;
+    justify-content: space-between;
+    display:inline-block;
+    margin-right: 100px;
+}
+
+
+.skills{
+    margin:auto;
+    border-spacing: 10px;
+    font-size: xx-large;
+}
+
+
+
+th{
+    font-size: x-large;
+    rowspan="2";
+}
